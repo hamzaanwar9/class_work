@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Paktech SYSTEM "paktech_validate_element.dtd" [
+<!ENTITY pass "pass1122">
+]>
+<Paktech>
+
+<employee>
+<name>hamza</name>
+<email domain=""> alexerfro@gmail.com</email>
+<number>03223556500</number>
+<password>h2345678</password>
+</employee>
+
+<clinte>
+<name>ali</name>
+<email domain="">ali@gmail.com</email>
+<password>&pass;</password>
+</clinte>
+
+</Paktech>
